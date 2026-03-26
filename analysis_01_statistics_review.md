@@ -1,13 +1,13 @@
-# Analysis 1 � Statistics Review
+# Analysis 1 — Statistics Review
 
-## ?? Overview
+## 📌 Overview
 This assignment focused on reviewing core statistical concepts and applying them to real-world data analysis problems.
 
 The work combined **theoretical understanding** with **practical implementation**, including hypothesis testing and regression analysis.
 
 ---
 
-## ?? Objectives
+## 🎯 Objectives
 
 - Understand experimental design concepts (e.g., placebo effect, bias)
 - Apply hypothesis testing techniques
@@ -17,7 +17,7 @@ The work combined **theoretical understanding** with **practical implementation*
 
 ---
 
-## ?? Key Concepts Applied
+## 🧠 Key Concepts Applied
 
 - Observational studies vs. experiments  
 - Hypothesis testing (t-test, z-test, likelihood ratio test)  
@@ -28,7 +28,7 @@ The work combined **theoretical understanding** with **practical implementation*
 
 ---
 
-## ??? Work Performed
+## 🛠️ Work Performed
 
 - Analyzed datasets to evaluate hypotheses  
 - Built statistical models to test assumptions  
@@ -38,7 +38,7 @@ The work combined **theoretical understanding** with **practical implementation*
 
 ---
 
-## ?? Skills Demonstrated
+## 📊 Skills Demonstrated
 
 - Statistical reasoning and problem-solving  
 - Data interpretation and critical thinking  
@@ -47,15 +47,14 @@ The work combined **theoretical understanding** with **practical implementation*
 
 ---
 
-## ?? Notes
+## ⚠️ Notes
 
 - This summary reflects my understanding and work  
 - No graded solutions or restricted materials are included (per edX policy)  
 
 ---
 
-## ?? Related Course
+## 🔗 Related Course
 
-MITx 6.419x � Data Analysis: Statistical Modeling and Computation in Applications  
+MITx 6.419x — Data Analysis: Statistical Modeling and Computation in Applications  
 https://www.edx.org/learn/data-analysis/massachusetts-institute-of-technology-data-analysis-statistical-modeling-and-computation-in-applications
-
