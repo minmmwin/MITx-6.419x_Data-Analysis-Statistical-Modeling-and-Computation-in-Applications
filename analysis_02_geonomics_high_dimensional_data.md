@@ -1,61 +1,63 @@
-# Analysis 1 � Statistics Review
+# Analysis 2 — Genomics and High-Dimensional Data
 
-## ?? Overview
-This assignment focused on reviewing core statistical concepts and applying them to real-world data analysis problems.
+## 📌 Overview
+This analysis focused on exploring high-dimensional genomic data using single-cell RNA sequencing (RNA-seq). The goal was to identify structure in the data and discover meaningful biological patterns.
 
-The work combined **theoretical understanding** with **practical implementation**, including hypothesis testing and regression analysis.
-
----
-
-## ?? Objectives
-
-- Understand experimental design concepts (e.g., placebo effect, bias)
-- Apply hypothesis testing techniques
-- Interpret statistical significance and p-values
-- Implement regression models (OLS)
-- Use computational methods such as gradient descent
+The dataset consisted of gene expression measurements across individual cells from mouse brain tissue.
 
 ---
 
-## ?? Key Concepts Applied
+## 🎯 Objectives
 
-- Observational studies vs. experiments  
-- Hypothesis testing (t-test, z-test, likelihood ratio test)  
-- Multiple hypothesis correction (e.g., Bonferroni, Benjamini-Hochberg)  
-- Linear regression (ordinary least squares)  
-- Gradient descent optimization  
-- Statistical interpretation of results  
-
----
-
-## ??? Work Performed
-
-- Analyzed datasets to evaluate hypotheses  
-- Built statistical models to test assumptions  
-- Applied regression techniques to real data  
-- Interpreted outputs and validated findings  
-- Wrote structured analytical reports for selected problems  
+- Analyze high-dimensional gene expression data  
+- Identify clusters of similar cells  
+- Apply dimensionality reduction techniques  
+- Perform feature selection using statistical models  
+- Evaluate robustness of analytical decisions  
 
 ---
 
-## ?? Skills Demonstrated
+## 🧠 Key Concepts Applied
 
-- Statistical reasoning and problem-solving  
-- Data interpretation and critical thinking  
-- Translating theory into code-based solutions  
-- Communicating results through written analysis  
-
----
-
-## ?? Notes
-
-- This summary reflects my understanding and work  
-- No graded solutions or restricted materials are included (per edX policy)  
+- High-dimensional data analysis  
+- Clustering techniques (unsupervised learning)  
+- Dimensionality reduction (e.g., t-SNE)  
+- Logistic regression for feature selection  
+- Model evaluation and validation  
+- Handling large-scale datasets  
 
 ---
 
-## ?? Related Course
+## 🛠️ Work Performed
 
-MITx 6.419x � Data Analysis: Statistical Modeling and Computation in Applications  
+- Processed RNA-seq count matrix data  
+- Applied clustering methods to identify cell groups  
+- Visualized high-dimensional data using dimensionality reduction  
+- Built models to distinguish cell types  
+- Evaluated feature importance using statistical techniques  
+- Analyzed sensitivity of results to parameter choices  
+
+---
+
+## 📊 Skills Demonstrated
+
+- Working with complex, high-dimensional datasets  
+- Applying machine learning techniques to real data  
+- Data visualization and interpretation  
+- Combining statistical models with exploratory analysis  
+- Critical evaluation of modeling decisions  
+
+---
+
+## ⚠️ Notes
+
+- This summary reflects my own analysis and understanding  
+- No restricted or graded solutions are shared (per edX policy)  
+
+---
+
+## 🔗 Related Course
+
+MITx 6.419x — Data Analysis: Statistical Modeling and Computation in Applications  
 https://www.edx.org/learn/data-analysis/massachusetts-institute-of-technology-data-analysis-statistical-modeling-and-computation-in-applications
 
