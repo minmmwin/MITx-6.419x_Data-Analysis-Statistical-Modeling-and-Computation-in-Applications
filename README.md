@@ -39,25 +39,73 @@ The course focuses on the interplay between **statistics and computation** for a
 
 ## 📈 Skills Practiced
 
-- Data cleaning and preprocessing  
-- Statistical reasoning and modeling  
-- Interpreting real-world datasets  
-- Writing analytical code in Python  
-- Visualizing data and results  
-- Applying machine learning concepts  
+- Data cleaning and preprocessing
+- Statistical reasoning and modeling
+- Interpreting real-world datasets
+- Writing analytical code in Python
+- Visualizing data and results
+- Applying machine learning concepts
 
+---
+
+## 📂 Repository Structure
+
+---
+MITx-6.419x/
+│
+├── README.md
+│
+├── analyses/
+│   ├── analysis_01_statistics_review.md
+│   ├── analysis_02_genomics_high_dimensional_data.md
+│   ├── analysis_03_networks.md
+│   ├── analysis_04_time_series.md
+│   └── analysis_05_gaussian_processes.md
+│
+├── progress/
+│   ├── week_01_progress.pdf
+│   ├── week_02_progress.pdf
+│   ├── week_03_progress.pdf
+│   ├── week_04_progress.pdf
+│   ├── week_05_progress.pdf
+│   ├── week_06_progress.pdf
+│   ├── week_07_progress.pdf
+│   ├── week_08_progress.pdf
+│   ├── week_09_progress.pdf
+│   ├── week_10_progress.pdf
+│   ├── week_11_progress.pdf
+│   └── week_12_progress.pdf
+│
+└── certificate/
+    └── mitx_6_419x_certificate.pdf
 ---
 
 ## 📅 Weekly Progress
 
-- **Week 1–2:** Introduction to data analysis and Python-based workflows  
-- **Week 3–4:** Statistical modeling and regression basics  
-- **Week 5–6:** Classification and high-dimensional data  
-- **Week 7–8:** Clustering and dimensionality reduction  
-- **Week 9–10:** Time series analysis  
-- **Week 11–12:** Collaborative filtering and reinforcement learning  
+- Week 01: [Progress](progress/week_01_progress.pdf)
+- Week 02: [Progress](progress/week_02_progress.pdf)
+- Week 03: [Progress](progress/week_03_progress.pdf)
+- Week 04: [Progress](progress/week_04_progress.pdf)
+- Week 05: [Progress](progress/week_05_progress.pdf)
+- Week 06: [Progress](progress/week_06_progress.pdf)
+- Week 07: [Progress](progress/week_07_progress.pdf)
+- Week 08: [Progress](progress/week_08_progress.pdf)
+- Week 09: [Progress](progress/week_09_progress.pdf)
+- Week 10: [Progress](progress/week_10_progress.pdf)
+- Week 11: [Progress](progress/week_11_progress.pdf)
+- Week 12: [Progress](progress/week_12_progress.pdf)
 
-(*Detailed weekly progress is documented in the uploaded PDF files.*)
+(*Detailed weekly progress is documented in the PDF files.*)
+
+---
+
+## 📊 Analyses
+
+- Analysis 1: Statistics Review  
+- Analysis 2: Genomics & High-Dimensional Data  
+- Analysis 3: Network Analysis  
+- Analysis 4: Time Series Analysis  
+- Analysis 5: Environmental Data & Gaussian Processes  
 
 ---
 
@@ -65,7 +113,7 @@ The course focuses on the interplay between **statistics and computation** for a
 
 - Verified certificate available in this repository  
 - Additional details:  
-  https://www.edx.org/learn/data-analysis/massachusetts-institute-of-technology-data-analysis-statistical-modeling-and-computation-in-applications
+https://www.edx.org/learn/data-analysis/massachusetts-institute-of-technology-data-analysis-statistical-modeling-and-computation-in-applications
 
 ---
 
@@ -86,3 +134,6 @@ The course focuses on the interplay between **statistics and computation** for a
 ---
 
 ## 👤 Author
+**Min Win**
+- GitHub: https://github.com/minmmwin
+- Location: Ottawa, Canada
