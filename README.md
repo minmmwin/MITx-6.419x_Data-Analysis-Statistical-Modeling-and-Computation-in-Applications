@@ -50,7 +50,8 @@ The course focuses on the interplay between **statistics and computation** for a
 
 ## 📂 Repository Structure
 
----
+```
+
 MITx-6.419x/
 │
 ├── README.md
@@ -78,7 +79,8 @@ MITx-6.419x/
 │
 └── certificate/
     └── mitx_6_419x_certificate.pdf
----
+
+```
 
 ## 📅 Weekly Progress
 
